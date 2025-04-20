@@ -1,0 +1,53 @@
+System|2025-04-12 22:41:21|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:41:21|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:42:27|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:42:27|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:45:49|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:45:49|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:46:19|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:46:19|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:46:36|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:46:37|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:47:26|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:47:26|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:47:36|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-12 22:51:53|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:51:53|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:52:52|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 22:52:52|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 22:53:06|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-12 23:18:13|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 23:18:13|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 23:18:19|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-12 23:40:54|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 23:40:54|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 23:42:48|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 23:42:48|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 23:43:43|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 23:43:43|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 23:43:47|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-12 23:57:02|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-12 23:57:02|SYSTEM|ChatBot has joined the chat
+System|2025-04-12 23:57:12|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-12 23:57:27|SYSTEM|CLZ@DESKTOP-K7V8UEV has joined the chat
+System|2025-04-13 00:00:09|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:00:09|SYSTEM|ChatBot has joined the chat
+System|2025-04-13 00:00:11|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:00:43|SYSTEM|CLZ@DESKTOP-K7V8UEV has joined the chat
+System|2025-04-13 00:38:38|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:38:41|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:46:37|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:47:33|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:47:34|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:52:38|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:52:40|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:54:49|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:54:51|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:58:47|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:58:49|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 00:59:13|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 00:59:15|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 01:01:46|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 01:01:48|SYSTEM|Server started on 192.168.1.189:8888
+System|2025-04-13 01:04:08|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net
+System|2025-04-13 01:04:24|SYSTEM|Chat initialized for pujanbohora@Pujans-MacBook-Pro.attlocal.net

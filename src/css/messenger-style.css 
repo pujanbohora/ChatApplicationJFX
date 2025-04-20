@@ -1,0 +1,128 @@
+/* Messenger-style CSS */
+
+.root {
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.button {
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-padding: 8 15 8 15;
+    -fx-cursor: hand;
+}
+
+.text-field {
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-padding: 8 15 8 15;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 5 0 5 0;
+}
+
+.list-cell:selected {
+    -fx-background-color: #E4E6EB;
+    -fx-background-radius: 5;
+}
+
+.scroll-pane {
+    -fx-background-color: white;
+    -fx-background: white;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: white;
+}
+
+.message-bubble {
+    -fx-background-radius: 18;
+    -fx-padding: 10 15 10 15;
+}
+
+.sent-message {
+    -fx-background-color: #0084FF;
+    -fx-text-fill: white;
+}
+
+.received-message {
+    -fx-background-color: #F0F0F0;
+    -fx-text-fill: black;
+}
+
+.message-timestamp {
+    -fx-font-size: 10px;
+    -fx-text-fill: #999999;
+}
+
+.user-avatar {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 3, 0, 0, 1);
+}
+
+.status-indicator {
+    -fx-stroke: white;
+    -fx-stroke-width: 2;
+}
+
+.chat-header {
+    -fx-background-color: #F5F5F5;
+    -fx-border-color: #E0E0E0;
+    -fx-border-width: 0 0 1 0;
+}
+
+.input-area {
+    -fx-background-color: #F5F5F5;
+    -fx-border-color: #E0E0E0;
+    -fx-border-width: 1 0 0 0;
+}
+
+.emoji-button:hover {
+    -fx-background-color: #E4E6EB;
+    -fx-background-radius: 50%;
+}
+
+.send-button {
+    -fx-background-color: #0084FF;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+}
+
+.send-button:hover {
+    -fx-background-color: #0078E7;
+}
+
+.contact-list-header {
+    -fx-background-color: #0084FF;
+    -fx-padding: 15;
+}
+
+.contact-list-title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.search-box {
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-padding: 8;
+}
+
+.contact-item:hover {
+    -fx-background-color: #F0F0F0;
+    -fx-background-radius: 5;
+}
+
+.status-bar {
+    -fx-background-color: #F5F5F5;
+    -fx-border-color: #E0E0E0;
+    -fx-border-width: 1 0 0 0;
+    -fx-padding: 5 10 5 10;
+}

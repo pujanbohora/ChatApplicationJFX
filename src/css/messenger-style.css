@@ -1,0 +1,62 @@
+/* Messenger-style CSS */
+
+.root {
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.button {
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-padding: 8 15 8 15;
+    -fx-cursor: hand;
+}
+
+.text-field {
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-padding: 8 15 8 15;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 5 0 5 0;
+}
+
+.list-cell:selected {
+    -fx-background-color: #E4E6EB;
+    -fx-background-radius: 5;
+}
+
+.scroll-pane {
+    -fx-background-color: white;
+    -fx-background: white;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: white;
+}
+
+.message-bubble {
+    -fx-background-radius: 18;
+    -fx-padding: 10 15 10 15;
+}
+
+.sent-message {
+    -fx-background-color: #0084FF;
+    -fx-text-fill: white;
+}
+
+.received-message {
+    -fx-background-color: #F0F0F0;
+    -fx-text-fill: black;
+}
+
+.message-timestamp {
+    -fx-font-size: 10px;
+    -fx-text-fill: #999999;
+}
